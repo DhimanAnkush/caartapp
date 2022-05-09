@@ -1,0 +1,12 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#logo {
+  font-family: "Bungee Inline", cursive;
+  /* border: 1px solid red; */
+  font-size: 30px;
+  color: rgb(5, 7, 129);
+}

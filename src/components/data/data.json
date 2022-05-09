@@ -1,0 +1,84 @@
+
+{
+    "laptops": [
+      {
+        "id": "laptop_1",
+        "name": "Acer Aspire 7 Core i5 9th Gen - (8 GB/512 GB SSD/Windows 10 Home/4 GB Graphics/NVIDIA Geforce GTX 1650",
+        "price": "24,000",
+        "img": "https://rukminim1.flixcart.com/image/312/312/k33c4nk0pkrrdj/computer/2/h/y/acer-na-gaming-laptop-original-imafj5dpnuuy2dvd.jpeg?q=70"
+      },
+      {
+        "id": "laptop_2",
+        "name": "HP i5 8th Gen",
+        "price": "45,990",
+        "img": "https://rukminim1.flixcart.com/image/312/312/k2tc1ow0pkrrdj/computer/x/f/z/hp-na-laptop-original-imafh42uzzw4qhf2.jpeg?q=70"
+      },
+      {
+        "id": "laptop_3",
+        "name": "Dell 14 3000 Core i3 7th Gen",
+        "price": "26,990",
+        "img": "https://rukminim1.flixcart.com/image/312/312/k3xcdjk0pkrrdj/computer/h/y/c/dell-na-laptop-original-imafghfndqdm4rjt.jpeg?q=70"
+      }
+    ],
+    "trimmers": [
+      {
+        "id": "trimmer_1",
+        "name": "Beardo Pr3058",
+        "price": "1,799",
+        "img": "https://rukminim1.flixcart.com/image/612/612/k3j1z0w0/trimmer/d/e/u/pr3058-59-beardo-original-imaffwzzmnjdzvdr.jpeg?q=70"
+      },
+      {
+        "id": "trimmer_2",
+        "name": "Nova Prime Series",
+        "price": "949",
+        "img": "https://rukminim1.flixcart.com/image/612/612/jy65j0w0/trimmer/g/y/a/prime-series-nht-1085-nova-original-imafgfxqzrabqz7h.jpeg?q=70"
+      },
+      {
+        "id": "trimmer_3",
+        "name": "Gillette Fusion Proglide",
+        "price": "1,099",
+        "img": "https://rukminim1.flixcart.com/image/612/612/k1wgx3k0/trimmer/v/p/6/fusion-proglide-3-in-1-styler-gillette-original-imafhd8hy7wuntrn.jpeg?q=70"
+      }
+    ],
+  
+    "headphones": [
+      {
+        "id": "headset_1",
+        "name": "Noise Tune",
+        "price": "1,099",
+        "img": "https://rukminim1.flixcart.com/image/612/612/k33c4nk0pkrrdj/headphone/y/d/z/nu-republic-dubstep-original-imafgfpusyycf993.jpeg?q=70"
+      },
+      {
+        "id": "headset_2",
+        "name": "Ambrance",
+        "price": "999",
+        "img": "https://rukminim1.flixcart.com/image/612/612/k5msb680/headphone/p/y/r/ambrane-anb-33-original-imafz9ncd8mc2ynt.jpeg?q=70"
+      },
+      {
+        "id": "headset_3",
+        "name": "SoundLogic Voice",
+        "price": "999",
+        "img": "https://rukminim1.flixcart.com/image/612/612/jmxrwy80/headphone/u/k/p/soundlogic-voice-assistant-wireless-neckband-original-imaf9qhtwb39cewj.jpeg?q=70"
+      }
+    ],
+    "pendrives": [
+      {
+        "id": "pendrive_1",
+        "name": "San Disk SDD3-06OTG",
+        "price": "909",
+        "img": "https://rukminim1.flixcart.com/image/612/612/k5y7tzk0/pendrive/type-a-to-micro-usb/m/m/f/sandisk-sddd3-064g-i35gw-original-imaffvcqr6atzjff.jpeg?q=70"
+      },
+      {
+        "id": "pendrive_2",
+        "name": "HP MM-OTG064GB-02P",
+        "price": "949",
+        "img": "https://rukminim1.flixcart.com/image/612/612/js0o9zk0/pendrive/pendrive/7/j/r/hp-mm-otg064gb-02p-original-imafdzg2xts9styc.jpeg?q=70"
+      },
+      {
+        "id": "pendrive_3",
+        "name": "Sony USM32MX/S 32GB",
+        "price": "399",
+        "img": "https://rukminim1.flixcart.com/image/612/612/jpa2w7k0/pendrive/pendrive/p/p/r/sony-usm32mx-s-usm32mx-s-in-31302054-original-imafbjwmzsksed5p.jpeg?q=70"
+      }
+    ]
+  }
